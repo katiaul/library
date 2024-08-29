@@ -3,7 +3,6 @@ package katiaul.util;
 import java.io.*;
 import java.util.regex.*;
 
-@SuppressWarnings("unused")
 public class Logger {
 	private final String name;
 	private final String format;
