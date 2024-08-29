@@ -1,6 +1,6 @@
 package katiaul.thread;
 
-public abstract class Instance implements Runnable {
+public class Instance implements Runnable {
     private final Thread thread;
     private boolean running;
 
