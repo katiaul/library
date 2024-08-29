@@ -1,4 +1,4 @@
-package katiaul.thread;
+package katiaul.core;
 
 public class Instance implements Runnable {
     private final Thread thread;
