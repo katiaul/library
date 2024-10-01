@@ -2,6 +2,7 @@ package katiaul.io;
 
 import java.io.*;
 
+@SuppressWarnings("unused")
 public class Message {
     private final byte command;
     private final DataInputStream reader;

@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
+@SuppressWarnings("unused")
 public class RawData {
     public static byte[] getBytes(File file) throws IOException {
         FileInputStream stream = new FileInputStream(file);

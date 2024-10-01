@@ -1,5 +1,6 @@
 package katiaul.core;
 
+@SuppressWarnings("unused")
 public class Instance implements Runnable {
     private final Thread thread;
     private boolean running;

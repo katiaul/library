@@ -2,6 +2,7 @@ package katiaul.util;
 
 import com.google.gson.*;
 
+@SuppressWarnings("unused")
 public class Json {
     public static final Json instance = new Json();
 
